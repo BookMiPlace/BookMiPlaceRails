@@ -9,7 +9,6 @@ gem 'rails', '~> 5.1.6'
 gem 'pg'
 gem 'puma', '~> 3.7'
 gem 'turbolinks', '~> 5'
-# gem 'uglifier'
 gem 'webpacker', '~> 3.4'
 
 group :development, :test do
